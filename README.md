@@ -1,1 +1,1 @@
-Essentially, these files will help mod / root / install a Custom ROM on your Samsung Tab 2 10.1 P5110
+Essentially, flash auto root using the odin software. Reboot and it should begin to Root. If you have got it, use ROM manager on android, or find the Custom ROM zip online. Then, Flash the recovery.tar.md5 using odin. Then transfer the ROM and flash using recovery. boom
