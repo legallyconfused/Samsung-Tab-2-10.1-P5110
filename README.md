@@ -1,1 +1,3 @@
-Essentially, flash auto root using the odin software. Reboot and it should begin to Root. If you have got it, use ROM manager on android, or find the Custom ROM zip online. Then, Flash the recovery.tar.md5 using odin. Then transfer the ROM and flash using recovery. boom
+Okay, this is such an undeground thing. Basically found my old tablet. And I extracted my old custom recovery that quite frankly has not got any mirrors on Android File Host etc.
+
+I thought I would upload it here, since I was transferring my PC to a new one while I uploaded the first files.
